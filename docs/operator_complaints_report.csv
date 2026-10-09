@@ -1,0 +1,21 @@
+operator,complaint_theme,complaint_count
+Airtel,General Feedback,1116
+Airtel,Network & Connectivity,900
+Airtel,App Performance & Bugs,442
+Airtel,Billing & Pricing,304
+Airtel,Customer Support,238
+BSNL,App Performance & Bugs,977
+BSNL,General Feedback,945
+BSNL,Billing & Pricing,504
+BSNL,Network & Connectivity,467
+BSNL,Customer Support,69
+Jio,General Feedback,1951
+Jio,Network & Connectivity,431
+Jio,App Performance & Bugs,373
+Jio,Customer Support,141
+Jio,Billing & Pricing,103
+Vi,General Feedback,2159
+Vi,Network & Connectivity,371
+Vi,App Performance & Bugs,281
+Vi,Customer Support,119
+Vi,Billing & Pricing,70
