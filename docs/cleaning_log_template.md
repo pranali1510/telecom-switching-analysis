@@ -37,6 +37,18 @@ Issues & Decisions:
 File Access Permission Lock: Encountered a PermissionError: [Errno 13] Access Denied when pandas attempted to overwrite reviews_stage1.csv. Root cause traced to an active preview window/external program locking the CSV file. Resolved by closing the conflicting process instance to allow clean automated overwrites.
 
 Missing Dependency Specification: Discovered that pypdf was omitted from requirements.txt during initial environment setup, which would block reproduction on clone environments. Resolved by explicitly appending pypdf to the requirements manifest and pushing the updated configuration to GitHub.
+
+
+
+4. Database Schema & MySQL Loading Ingestion
+Component: MySQL Database Integration (scripts/load_to_mysql.py)
+
+Issues & Resolutions:
+
+Column Name Harmonization: Mapped camelCase headers from the Play Store scraper output (reviewId, thumbsUpCount, reviewCreatedVersion) to standard snake_case database columns (review_id, thumbs_up_count, review_created_version) to maintain clean SQL convention standards.
+
+Primary Key Constraints & Appends: Designated review_id as the primary key for play_store_reviews (loading 11,961 clean rows) and month_period for trai_monthly_metrics (loading 14 complete historical rows) to ensure idempotency and prevent duplicate inserts on script re-runs.
+
 | # | Dataset | Issue found | Rows affected | Decision | Reason |
 |---|---------|-------------|---------------|----------|--------|
 | 1 |         |             |               |          |        |
