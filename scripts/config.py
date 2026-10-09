@@ -6,7 +6,7 @@ APPS = {
     "Jio": "com.jio.myjio",
     "Airtel": "com.myairtelapp",
     "Vi": "com.mventus.selfcare.activity",
-    "BSNL": "TODO_copy_from_play_store_url",
+    "BSNL": "com.rma.bsnl"
 }
 
 REVIEWS_PER_APP = 3000      # keep modest and polite
