@@ -1,0 +1,4 @@
+venv/
+data/raw/trai_pdfs/
+data/raw/reviews/
+__pycache__/

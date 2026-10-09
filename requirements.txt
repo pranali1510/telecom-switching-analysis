@@ -1,0 +1,4 @@
+requests
+pdfplumber
+pandas
+google-play-scraper
