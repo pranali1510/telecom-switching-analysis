@@ -1,0 +1,21 @@
+﻿operator,complaint_theme,complaints,share_of_operator_complaints
+Airtel,App Performance & Bugs,334,0.174
+Airtel,Billing & Pricing,247,0.128
+Airtel,Customer Support,367,0.191
+Airtel,Network & Connectivity,732,0.38
+Airtel,Other complaint,244,0.127
+BSNL,App Performance & Bugs,1416,0.673
+BSNL,Billing & Pricing,207,0.098
+BSNL,Customer Support,60,0.029
+BSNL,Network & Connectivity,179,0.085
+BSNL,Other complaint,242,0.115
+Jio,App Performance & Bugs,75,0.109
+Jio,Billing & Pricing,50,0.073
+Jio,Customer Support,89,0.13
+Jio,Network & Connectivity,338,0.493
+Jio,Other complaint,134,0.195
+Vi,App Performance & Bugs,83,0.181
+Vi,Billing & Pricing,47,0.103
+Vi,Customer Support,26,0.057
+Vi,Network & Connectivity,169,0.369
+Vi,Other complaint,133,0.29

@@ -1,0 +1,16 @@
+﻿month,month_date,mnp_requests_million,status,source_url
+2025-06,2025-06-01,13.58,ok,https://www.trai.gov.in/sites/default/files/2025-07/PR_No.64of2025_0.pdf
+2025-07,2025-07-01,15.41,ok,https://www.trai.gov.in/sites/default/files/2025-08/PR_No.83of2025_0.pdf
+2025-08,2025-08-01,15.05,ok,https://www.trai.gov.in/sites/default/files/2025-10/PR_No.104of2025_0.pdf
+2025-09,2025-09-01,15.13,ok,https://www.trai.gov.in/sites/default/files/2025-10/PR_No.120of2025_0.pdf
+2025-10,2025-10-01,15.05,ok,https://www.trai.gov.in/sites/default/files/2025-11/PR_No.141of2025_0.pdf
+2025-11,2025-11-01,14.69,ok,https://www.trai.gov.in/sites/default/files/2025-12/English%20Press%20Release%20of%20Telecom%20Subscription%20Data-November-25_English-31.12.2025_1815-sd_0.pdf
+2025-12,2025-12-01,16.12,manual_entry,https://www.trai.gov.in/sites/default/files/2026-02/PR_No.19of2026_0.pdf
+2026-01,2026-01-01,15.98,ok,https://www.trai.gov.in/sites/default/files/2026-03/PR_No.39of2026_0.pdf
+2026-02,2026-02-01,14.47,ok,https://www.trai.gov.in/sites/default/files/2026-04/PR_No.46of2026_0.pdf
+2026-03,2026-03-01,14.63,ok,https://www.trai.gov.in/sites/default/files/2026-04/PR_No.53of2026.pdf
+2026-04,2026-04-01,14.74,ok,https://www.trai.gov.in/sites/default/files/2026-05/PR_No.63of2026_0.pdf
+2026-05,2026-05-01,14.46,ok,https://www.trai.gov.in/sites/default/files/2026-06/PR_No78of2026_0.pdf
+2026-06,2026-06-01,14.78,ok,https://www.trai.gov.in/sites/default/files/2026-07/PR_No104of2026_0.pdf
+2026-07,2026-07-01,15.98,ok,https://www.trai.gov.in/sites/default/files/2026-08/PR_No116of2026_0.pdf
+2026-08,2026-08-01,15.83,ok,https://trai.gov.in/sites/default/files/2026-09/PR_No125of2026.pdf

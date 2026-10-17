@@ -3,3 +3,5 @@ pdfplumber
 pandas
 google-play-scraper
 pypdf
+sqlalchemy
+pymysql

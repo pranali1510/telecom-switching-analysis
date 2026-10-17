@@ -2,3 +2,9 @@ venv/
 data/raw/trai_pdfs/
 data/raw/reviews/
 __pycache__/
+data/clean/reviews_stage1.csv
+data/clean/reviews_classified.csv
+data/clean/label_sample.csv
+data/clean/label_sample_round2.csv
+data/clean/spot_check.csv
+.env
