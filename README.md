@@ -1,4 +1,4 @@
-Why Are Indian Mobile Subscribers Switching Operators?
+# Why Are Indian Mobile Subscribers Switching Operators?
 
 **Question:** What do TRAI's number-portability data and public app reviews say about why customers leave Indian mobile operators, and where should an operator focus first?
 
@@ -9,7 +9,7 @@ Why Are Indian Mobile Subscribers Switching Operators?
 ![Voice of customer](docs/images/voice_of_customer.png)
 
 Full dashboard: [`dashboard/telecom_dashboard.pdf`](dashboard/telecom_dashboard.pdf)
-
+Client memo: [docs/client_memo.md](docs/client_memo.md)
 ---
 
 ## Key findings
@@ -88,4 +88,5 @@ See [`docs/cleaning_log.md`](docs/cleaning_log.md) for every data problem found 
 ## Author
 
 **Pranali Sawant**, data analyst (Python, MySQL, Power BI, Tableau, Excel)
+
 GitHub: [pranali1510](https://github.com/pranali1510)
