@@ -12,6 +12,8 @@ Full dashboard: [`dashboard/telecom_dashboard.pdf`](dashboard/telecom_dashboard.
 
 
 Client memo: [docs/client_memo.md](docs/client_memo.md)
+
+
 ---
 
 ## Key findings
