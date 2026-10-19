@@ -1,4 +1,4 @@
-g# Why Are Indian Mobile Subscribers Switching Operators?
+Why Are Indian Mobile Subscribers Switching Operators?
 
 **Question:** What do TRAI's number-portability data and public app reviews say about why customers leave Indian mobile operators, and where should an operator focus first?
 
