@@ -9,6 +9,8 @@
 ![Voice of customer](docs/images/voice_of_customer.png)
 
 Full dashboard: [`dashboard/telecom_dashboard.pdf`](dashboard/telecom_dashboard.pdf)
+
+
 Client memo: [docs/client_memo.md](docs/client_memo.md)
 ---
 
